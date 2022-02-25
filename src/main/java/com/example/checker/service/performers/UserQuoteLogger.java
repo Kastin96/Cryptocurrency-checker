@@ -1,4 +1,4 @@
-package com.example.checker.service.cryptocurrency;
+package com.example.checker.service.performers;
 
 import com.example.checker.model.Cryptocurrency;
 import com.example.checker.model.User;
